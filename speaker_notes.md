@@ -58,11 +58,10 @@ entire film needn't be realistic, but the claims it relies on must be, namely:
 2. Walter's newly-discovered to action realistically makes his life better.
 
 TODO: introduce the concept of the Prescriptive Export:
-H&M's export is usually a piece of knowledge about the real world we are meant to believe. H&M focus on imports as
-factual pieces of knowledge which may be true or untrue, rather than as prescriptions for how we should engage with
-the world or each other.
+H&M's export is usually a piece of knowledge about the real world we are meant to believe.
+H&M focus on exports as factual pieces of knowledge which may be true or untrue, rather than as prescriptions for how we should engage with the world or each other.
 
-I'll call this a "descriptive export"
+I'll call this a "descriptive export", because they are meant to describe our world.
 
 I'd like to introduce the idea of a "prescriptive export" as a claim the film makes, directly or indirectly, about
 how we should engage with the real world. While H&M's exports are typically descriptive, a prescriptive
