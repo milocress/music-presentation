@@ -50,6 +50,27 @@ I got GPT to extract the speaker notes from the HTML comments of my presentation
 
 - **Speaker Notes:** "So, when is it important for a film to be realistic? This is my central claim: A film that prescribes advice to its audience must make its arguments 'in good faith'."
 
+Walter Mitty prescribes us to believe that the life we dream of is achievable if we'd
+only step out of our imaginations and take the first step. In order to do this, the
+entire film needn't be realistic, but the claims it relies on must be, namely:
+
+1. A bias to inaction must hinder Walter's life in the first act.
+2. Walter's newly-discovered to action realistically makes his life better.
+
+TODO: introduce the concept of the Prescriptive Export:
+H&M's export is usually a piece of knowledge about the real world we are meant to believe. H&M focus on imports as
+factual pieces of knowledge which may be true or untrue, rather than as prescriptions for how we should engage with
+the world or each other.
+
+I'll call this a "descriptive export"
+
+I'd like to introduce the idea of a "prescriptive export" as a claim the film makes, directly or indirectly, about
+how we should engage with the real world. While H&M's exports are typically descriptive, a prescriptive
+export focuses more on values than facts.
+This is I think what people would call the "message" of the film, be it political, philosophical, or ethical.
+It's a way of interpreting the theme of the film as a call to action, and using art as a chance to win over
+the hearts and minds of viewers. It's what makes film such a powerful medium for change.
+
 ### Slide 13: "That is the purpose of life."
 
 - **Speaker Notes:** "Escaping reality is the purpose of film, but engaging with reality is the purpose of philosophy. So, when films attempt a Prescriptive Export, they must dialectically balance convincing the viewer that they have escaped from their reality, with convincing the viewer that the message of the film applies to their own reality."
